@@ -16,7 +16,7 @@ function factorialize(num){
   return num;
 }
 
-factorialize(1);
+factorialize(5);
 
 // version using recursion
 function factorialize(num){
